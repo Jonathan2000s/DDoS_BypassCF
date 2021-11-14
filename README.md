@@ -1,2 +1,3 @@
 # DDoS_BypassCF
-Simple DDOS attack with nodejs :)
+การโจมตี DDOS อย่างง่ายด้วย nodejs :)
+รีโออัสCF & Flood !!
